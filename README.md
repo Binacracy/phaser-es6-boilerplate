@@ -89,10 +89,9 @@ See [gulpfile.md](https://github.com/belohlavek/phaser-es6-boilerplate/blob/mast
 
 Please report any bugs or add requests on [Github Issues](https://github.com/belohlavek/phaser-es6-boilerplate/issues).
 
-## About me
+## Credit
 
-My name is Daniel Belohlavek: I'm from Buenos Aires, Argentina and I love to derp around and code
-silly snippets. You can follow me on Twitter [@dbhvk](http://twitter.com/dbhvk)
+All credits go to Daniel Belohlavek. He was the one who created this boilerplate. 
 
 ## License
 
